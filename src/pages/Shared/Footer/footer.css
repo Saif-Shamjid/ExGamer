@@ -1,0 +1,10 @@
+.footer-container{
+    margin-top: 50px;
+    padding: 40px;
+    text-align: center;
+    color: rgb(204, 204, 204);
+}
+
+.footer-container p{
+    margin-bottom: 0;
+}

@@ -7,6 +7,18 @@
   pointer-events: none;
 }
 
+.primary-bg-color {
+  background-color: rgb(32, 35, 42) !important;
+}
+
+.primary-text-color {
+  color: rgb(174, 119, 247);
+}
+
+.card-border {
+  border: 1px soilid rgb(174, 119, 247) !important;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
